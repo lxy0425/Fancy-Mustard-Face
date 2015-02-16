@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1ba1f4d738b8f27547f3d6260c0da7a3e497f965.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/pre-dexed/debug/classes-65d9bde3d397cd81be115848960f521cadcd4264.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/pre-dexed/debug/classes-f15a4070abf8c8620df08138ae1491d1a18328f8.jar" />
+    </item>
+    <item
+        jar="/Users/apple/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/apple/AndroidStudioProjects/facedetector/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9076623d84db6460fee9e59402319569e6c28e29.jar" />
+    </item>
+
+</items>
